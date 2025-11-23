@@ -304,6 +304,7 @@ section {
     letter-spacing: 1px;
     margin-bottom: var(--spacing-sm);
 }
+}
 
 .section-title {
     margin-bottom: var(--spacing-sm);
@@ -322,6 +323,7 @@ section {
 .sobre-text h3 {
     margin-bottom: var(--spacing-md);
     color: var(--color-primary-dark);
+    text-align: center;
 }
 
 .sobre-text p {
